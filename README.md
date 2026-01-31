@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: NAVIN D </h3>
-<h3>Register Number :212224080035 </h3>
+<h3>Name: RAGHUNATHAN A </h3>
+<h3>Register Number: 212224080048</h3>
 
 
 <h3>AIM:</h3>
@@ -41,8 +41,8 @@
 <h3>STEP 5:</h3>
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
 
-PROGRAM:
-````import random
+```
+import random
 ROOMS = ["Room 1", "Room 2"]
 FEVER_THRESHOLD = 98.5
 environment = {
@@ -80,3 +80,7 @@ for room in ROOMS:
 print("\nSimulation Complete!")
 print(f"Final Performance Score: {performance_score}")
 print("Environment State:", environment)
+```
+
+
+OUTPUT:
