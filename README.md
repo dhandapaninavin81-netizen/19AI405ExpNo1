@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: RAGHUNATHAN A </h3>
-<h3>Register Number: 212224080048</h3>
+<h3>Name: NALINIPRIYA G </h3>
+<h3>Register Number/Staff Id: TSIT031</h3>
 
 
 <h3>AIM:</h3>
@@ -41,8 +41,8 @@
 <h3>STEP 5:</h3>
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
 
-```
-import random
+PROGRAM:
+````import random
 ROOMS = ["Room 1", "Room 2"]
 FEVER_THRESHOLD = 98.5
 environment = {
@@ -80,7 +80,11 @@ for room in ROOMS:
 print("\nSimulation Complete!")
 print(f"Final Performance Score: {performance_score}")
 print("Environment State:", environment)
-```
+````
+ OUTPUT:
+ 
+<img width="1060" height="511" alt="493341242-421c4595-9890-403d-92f3-185ff8b4805e" src="https://github.com/user-attachments/assets/6a3e5e71-f2fe-4837-9c16-7fe8c5cac357" />
 
+RESULT:
 
-OUTPUT:
+Thus the AI agent is developed successfully
